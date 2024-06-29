@@ -1,9 +1,7 @@
 # Kafka Temperature Analytics
 Alternate approach to Kstreams using flink. The temperature status is calculated using predefined values. The key and value of the kafka is consumed and produced using custom serde.
 
-[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/codeql-analysis.yml)
-
-[![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/codeql-analysis.yml) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalyticsFlink/actions/workflows/maven.yml)
 
 # Architecture:
 ![Architecture](images/flink-approach.png)
