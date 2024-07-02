@@ -44,7 +44,8 @@ The output can be observed by consuming the destination topic
 kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic flink_destination --property print.key=true
 ```
 
-
+## Alternatives
+[KafkaTemperatureAnalytics](https://github.com/appuv/KafkaTemperatureAnalytics)  | [KafkaTemperatureAnalyticsSpark](https://github.com/appuv/KafkaTemperatureAnalyticsSpark)
 
 
 
